@@ -1,2 +1,10 @@
 hello FILE fp
+
 fp = fopen(char*,"r");
+
+
+
+
+
+
+
